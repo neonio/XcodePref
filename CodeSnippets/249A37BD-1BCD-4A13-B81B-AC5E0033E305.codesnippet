@@ -3,24 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>markdown</string>
+	<string>realmclass</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>&lt;#childVC#&gt;.leadingAnchor.constraint(equalTo: &lt;#superView#&gt;.leadingAnchor, constant: 0).isActive = true
-        &lt;#childVC#&gt;.trailingAnchor.constraint(equalTo: &lt;#superView#&gt;.trailingAnchor, constant: 0).isActive = true
-&lt;#childVC#&gt;.topAnchor.constraint(equalTo: &lt;#superView#&gt;.topAnchor, constant: 0).isActive = true
-&lt;#childVC#&gt;.heightAnchor.constraint(equalToConstant: &lt;#height#&gt;).isActive = true</string>
+	<string>class &lt;#classname#&gt;: Object {
+    &lt;#statement#&gt;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B70FE877-B96C-4818-B4CE-A998547349F9</string>
+	<string>249A37BD-1BCD-4A13-B81B-AC5E0033E305</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>markdown</string>
+	<string>realm class</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>markdown</string>
+	<string>create realm class </string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>markdown</string>
+	<string>snp_ltth</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -14,13 +14,13 @@
 &lt;#childVC#&gt;.topAnchor.constraint(equalTo: &lt;#superView#&gt;.topAnchor, constant: 0).isActive = true
 &lt;#childVC#&gt;.heightAnchor.constraint(equalToConstant: &lt;#height#&gt;).isActive = true</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B70FE877-B96C-4818-B4CE-A998547349F9</string>
+	<string>DC8FC6C8-8767-47F2-92A7-86BB0DF848A2</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>markdown</string>
+	<string>snap leading trailing top height</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>markdown</string>
+	<string>snp_topvh</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

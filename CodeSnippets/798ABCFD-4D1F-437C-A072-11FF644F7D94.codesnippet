@@ -3,24 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>markdown</string>
+	<string>vv</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>&lt;#childVC#&gt;.leadingAnchor.constraint(equalTo: &lt;#superView#&gt;.leadingAnchor, constant: 0).isActive = true
-        &lt;#childVC#&gt;.trailingAnchor.constraint(equalTo: &lt;#superView#&gt;.trailingAnchor, constant: 0).isActive = true
-&lt;#childVC#&gt;.topAnchor.constraint(equalTo: &lt;#superView#&gt;.topAnchor, constant: 0).isActive = true
-&lt;#childVC#&gt;.heightAnchor.constraint(equalToConstant: &lt;#height#&gt;).isActive = true</string>
+	<string>Void</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B70FE877-B96C-4818-B4CE-A998547349F9</string>
+	<string>798ABCFD-4D1F-437C-A072-11FF644F7D94</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>markdown</string>
+	<string>void</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>markdown</string>
+	<string>void</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

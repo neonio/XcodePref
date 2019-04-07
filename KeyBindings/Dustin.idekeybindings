@@ -418,7 +418,7 @@
 				<key>Navigation</key>
 				<string>NO</string>
 				<key>Title</key>
-				<string>Move Focus To Editor…</string>
+				<string>Move Focus to Editor…</string>
 			</dict>
 			<dict>
 				<key>Action</key>
@@ -438,7 +438,7 @@
 				<key>Navigation</key>
 				<string>NO</string>
 				<key>Title</key>
-				<string>Move Focus To Previous Editor</string>
+				<string>Move Focus to Previous Editor</string>
 			</dict>
 			<dict>
 				<key>Action</key>

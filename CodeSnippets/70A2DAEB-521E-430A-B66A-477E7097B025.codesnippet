@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>privatefunc</string>
+	<string>debugreveal</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>private func &lt;#name#&gt;(&lt;#parameters#&gt;) {
-    &lt;#function body#&gt;
-  }</string>
+	<string>reveal load</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>04EA41BB-FB49-48A5-8DD8-C9A2789B45DF</string>
+	<string>70A2DAEB-521E-430A-B66A-477E7097B025</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>private method</string>
+	<string>use reveal for debug</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>private method</string>
+	<string>reveal for debug</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

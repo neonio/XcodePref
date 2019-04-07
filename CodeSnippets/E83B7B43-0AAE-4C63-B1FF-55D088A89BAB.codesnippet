@@ -3,24 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>markdown</string>
+	<string>lazybutton</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>&lt;#childVC#&gt;.leadingAnchor.constraint(equalTo: &lt;#superView#&gt;.leadingAnchor, constant: 0).isActive = true
-        &lt;#childVC#&gt;.trailingAnchor.constraint(equalTo: &lt;#superView#&gt;.trailingAnchor, constant: 0).isActive = true
-&lt;#childVC#&gt;.topAnchor.constraint(equalTo: &lt;#superView#&gt;.topAnchor, constant: 0).isActive = true
-&lt;#childVC#&gt;.heightAnchor.constraint(equalToConstant: &lt;#height#&gt;).isActive = true</string>
+	<string>    lazy var &lt;#name#&gt;:UIButton = {
+        let button = UIButton(type: .system)
+        button.translatesAutoresizingMaskIntoConstraints = false
+        return button
+    }()</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B70FE877-B96C-4818-B4CE-A998547349F9</string>
+	<string>E83B7B43-0AAE-4C63-B1FF-55D088A89BAB</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>markdown</string>
+	<string>create lazy button</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>markdown</string>
+	<string>create lazy button</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

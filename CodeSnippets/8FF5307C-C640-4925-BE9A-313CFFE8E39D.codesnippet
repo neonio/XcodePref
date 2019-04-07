@@ -3,24 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>markdown</string>
+	<string>lazyimageview</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>&lt;#childVC#&gt;.leadingAnchor.constraint(equalTo: &lt;#superView#&gt;.leadingAnchor, constant: 0).isActive = true
-        &lt;#childVC#&gt;.trailingAnchor.constraint(equalTo: &lt;#superView#&gt;.trailingAnchor, constant: 0).isActive = true
-&lt;#childVC#&gt;.topAnchor.constraint(equalTo: &lt;#superView#&gt;.topAnchor, constant: 0).isActive = true
-&lt;#childVC#&gt;.heightAnchor.constraint(equalToConstant: &lt;#height#&gt;).isActive = true</string>
+	<string>lazy var &lt;#name#&gt;: UIImageView = {
+        let imageView = UIImageView()
+    imageView.image = UIImage(named: &lt;#Image_name#&gt;)
+    imageView.contentMode = .scaleAspectFit
+    imageView.translatesAutoresizingMaskIntoConstraints = false
+        return imageView
+    }()
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B70FE877-B96C-4818-B4CE-A998547349F9</string>
+	<string>8FF5307C-C640-4925-BE9A-313CFFE8E39D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>markdown</string>
+	<string>create image view</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>markdown</string>
+	<string>create image view</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
