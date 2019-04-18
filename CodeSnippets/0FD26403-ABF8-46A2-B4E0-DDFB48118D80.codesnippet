@@ -9,7 +9,7 @@
 		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>platform :ios,&lt;#VERSION#&gt;
+	<string>platform :&lt;#platform#&gt;,&lt;#VERSION#&gt;
 use_frameworks!
 target &lt;#PROJECT#&gt; do
 pod &lt;#PODNAME#&gt;

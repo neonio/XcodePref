@@ -11,7 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>do {
       &lt;#code#&gt;
-    } catch let error{
+    } catch {
       &lt;#code#&gt;
     }</string>
 	<key>IDECodeSnippetIdentifier</key>

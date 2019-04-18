@@ -3,24 +3,30 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>isactive</string>
+	<string>lazynsscrollview</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>.isActive = true</string>
+	<string>lazy var scrollView: NSScrollView = {
+    let result = NSScrollView()
+    result.hasVerticalScroller = false
+    result.hasHorizontalScroller = false
+    result.documentView = &lt;#content#&gt;
+    return result
+    }()</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>6F5CE7C1-62EC-4DC1-9FD1-0E74DFA56723</string>
+	<string>CB94A15F-33A0-46A6-A014-23789A71CBE1</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>auto layout is active</string>
+	<string>lazy load scrollview</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>auto layout is active</string>
+	<string>lazy load scrollview</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
