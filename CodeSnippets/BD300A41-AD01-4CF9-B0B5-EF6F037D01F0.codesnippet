@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>vv</string>
+	<string>int</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Void</string>
+	<string>Int</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>798ABCFD-4D1F-437C-A072-11FF644F7D94</string>
+	<string>BD300A41-AD01-4CF9-B0B5-EF6F037D01F0</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>void</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>void</string>
+	<string>int -&gt; Int</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
