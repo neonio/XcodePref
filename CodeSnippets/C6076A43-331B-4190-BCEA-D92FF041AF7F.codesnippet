@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>propa</string>
+	<string>viewbuilder</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property(nonatomic,assign)</string>
+	<string>@ViewBuilder content: @escaping () -&gt; Content</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B415B347-4076-4C94-95E8-C5BF2551ABCA</string>
+	<string>C6076A43-331B-4190-BCEA-D92FF041AF7F</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>prop assign</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>prop assign</string>
+	<string>Create View Builder</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

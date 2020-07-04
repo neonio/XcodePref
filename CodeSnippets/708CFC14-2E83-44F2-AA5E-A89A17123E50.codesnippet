@@ -10,9 +10,9 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>override func awakeFromNib() {
-      super.awakeFromNib()
-      &lt;#Content#&gt;
-    }</string>
+  super.awakeFromNib()
+  &lt;#Content#&gt;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>708CFC14-2E83-44F2-AA5E-A89A17123E50</string>
 	<key>IDECodeSnippetLanguage</key>

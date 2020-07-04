@@ -10,8 +10,8 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>enum CodingKeys: String, CodingKey {
-    
-    }</string>
+    &lt;#Content#&gt;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F9F01763-BF16-454A-A47D-E913F1F6EAB4</string>
 	<key>IDECodeSnippetLanguage</key>

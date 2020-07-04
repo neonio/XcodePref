@@ -9,9 +9,9 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    func &lt;#base#&gt;() {
-        
-    }</string>
+	<string>func &lt;#base#&gt;() {
+    
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>38D6E134-3A27-41DE-881C-E80FA0C7F542</string>
 	<key>IDECodeSnippetLanguage</key>

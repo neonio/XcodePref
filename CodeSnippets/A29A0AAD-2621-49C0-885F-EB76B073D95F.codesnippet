@@ -3,21 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>after</string>
+	<string>combine</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>All</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (Int64)(&lt;#delayInSeconds#&gt; * NSEC_PER_SEC)), dispatch_get_main_queue(), &lt;#T##block: dispatch_block_t##dispatch_block_t##() -&gt; Void#&gt;)</string>
+	<string>import Combine</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>707307C0-1270-48EC-816A-4F61B6B32962</string>
+	<string>A29A0AAD-2621-49C0-885F-EB76B073D95F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>dispatch_after</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>after</string>
+	<string>import Combine</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

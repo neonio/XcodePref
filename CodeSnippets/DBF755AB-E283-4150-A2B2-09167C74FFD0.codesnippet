@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>propb</string>
+	<string>dispatchmain</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property(nonatomic,copy) void (^&lt;#BlockName#&gt;)(&lt;#paramsType#&gt;);</string>
+	<string>DispatchQueue.main</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>278795BA-C5DA-4CEE-920A-046703F56ACB</string>
+	<string>DBF755AB-E283-4150-A2B2-09167C74FFD0</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>property block</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>property block</string>
+	<string>DispatchQueue.main</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
